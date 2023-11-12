@@ -11,8 +11,8 @@ Need to set API credentials for using Sophos Central APIs & Windows Active Direc
 - Role: Service Principle Directory Sync
 
 - Get:
-	- Client ID: be7549df-6ad1-4d72-bb42-0096d1a0a4c4
-	- Client Secret: 7a587d8f837663b9ba915a2980b7a97a48df6cc1ad8c6c90f93926bd1a669f966e5c54748ec60e5adb357721571f87e03764
+	- Client ID: []
+	- Client Secret: []
 
 #### People > Set up directory service > Download AD Sync Installer
 
